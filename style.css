@@ -1,0 +1,43 @@
+*{
+  /*border: 1px solid red;*/
+  /*overflow: hidden;*/
+
+}
+.navbar{
+  /*margin-bottom: 10px;*/
+  padding: 5px;
+
+}
+/*.pc{
+  background-color:#f8f8f8;
+}*/
+.email{
+  text-align: center;
+}
+.image{
+  padding-bottom:30px;
+  margin-bottom: -22px;
+}
+.two{
+
+}
+.intro{
+  margin-top:20px;
+  padding-top: 2px;
+
+}
+.background{
+  text-align: center;
+}
+.hero{
+  text-align: center;
+}
+.ending{
+
+padding: 10px;
+margin: 10px;
+
+}
+.zero{
+background-color:#f8f8f8;  
+}
